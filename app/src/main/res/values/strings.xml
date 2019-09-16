@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Crazy Speed Recorder</string>
+    <string name="action_settings">Settings</string>
+    <string name="recordVideo">Rec video</string>
+    <string name="recordVideoSpeed">Rec video speed</string>
+    <string name="play">Play</string>
+    <string name="stopVideo">Stop video</string>
+    <string name="stopVideoSpeed">Stop video speed</string>
+    <string name="tableLayout">Table layout</string>
+    <string name="info">Waiting for GPS signal ...</string>
+    <string name="about_message">This application records the sports action video and audio and attaches the actual speed to the movie as a *.srt file. Developed by Bogdan Olariu, olariub@gmail.com</string>
+    <string name="unit_km">Kilometer</string>
+    <string name="unit_miles">Miles</string>
+    <string name="setting_unit">Measurement Unit</string>
+    <string name="about_menu_name">About</string>
+    <string name="title_activity_play_movie_with_subtitles">Media Player</string>
+    <string name="title_activity_media_player_video">Media Player Video</string>
+    <!--<string name="title_activity_start_media_player">StartMediaPlayer</string>-->
+    <string name="startMediaPlayer">Start Media Player</string>
+    <string name="title_activity_publish_to_facebook">Publish to Facebook</string>
+    <string name="publishToFacebook">Push to Facebook</string>
+    <string name="push">Push</string>
+    <string name="facebook_app_id">1559060157738151</string>
+    <string name="logout">Logout</string>
+    <string name="login">Login</string>
+    <string name="get_friends">Get friends</string>
+    <string name="load_more">load more...</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="commandText">ffmpeg -y -i /storage/emulated/0/CrazySpeedRecorder/video_27-15-2016_11-15-58.mkv -i /storage/emulated/0/CrazySpeedRecorder/video_27-15-2016_11-15-58.srt -strict experimental -scodec copy /storage/emulated/0/CrazySpeedRecorder/video_output.mkv</string>
+    <string name="browseFiles">Browse</string>
+    <string name="title_activity_browse_files">BrowseFiles</string>
+</resources>
